@@ -6,9 +6,9 @@ A simple Flutter App for managing ToDo list.
 
 ## Screenshots
 
-![App Screenshot1](https://github.com/fhhimel/flutter_todo_app/blob/master/preview_1.jpg?raw=true)
-![App Screenshot2](https://github.com/fhhimel/flutter_todo_app/blob/master/preview_2.jpg?raw=true)
-![App ScreenShot2](https://github.com/fhhimel/flutter_todo_app/blob/master/preview_3.jpg?raw=true)
+![App Screenshot1](https://github.com/fhhimel/flutter-todo-app/blob/main/preview_1.jpg?raw=true)
+![App Screenshot2](https://github.com/fhhimel/flutter-todo-app/blob/main/preview_2.jpg?raw=true)
+![App ScreenShot2](https://github.com/fhhimel/flutter-todo-app/blob/main/preview_3.jpg?raw=true)
 
 
 ## Features
